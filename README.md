@@ -13,7 +13,6 @@ for(int i = 0; i < scores.count-1; i++)
     if(scores[i] == playerRes)
     {
         index = i;
-        break;
     }
 }
 ```
